@@ -8,7 +8,7 @@ This repository contains the code and experiments for building a recommendation 
   Contains the deployed code for a GET API hosted on Render.com, delivering JSON responses.  
   **URL:** `https://get-api-shl.onrender.com/recommend`
 
-- **`my_task-main/`**  
+- **`shl_web-main/`**  
   Houses the deployed code for a functional Streamlit framework application.  
   **URL:** `https://testrecommendation.streamlit.app`
 
