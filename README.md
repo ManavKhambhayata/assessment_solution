@@ -6,11 +6,11 @@ This repository contains the code and experiments for building a recommendation 
 
 - **`get_api_shl-main/`**  
   Contains the deployed code for a GET API hosted on Render.com, delivering JSON responses.  
-  **URL:** `https://get-api-shl.onrender.com/recommend`
+  **URL:** `[https://get-api-shl.onrender.com/recommend](https://get-api-shl.onrender.com/recommend)`
 
 - **`shl_web-main/`**  
   Houses the deployed code for a functional Streamlit framework application.  
-  **URL:** `https://testrecommendation.streamlit.app`
+  **URL:** `[https://testrecommendershl.streamlit.app](https://testrecommendershl.streamlit.app/)`
 
 - **`SHL_Catalog_Extraction.ipynb`**  
   A Jupyter notebook with comprehensive web scraping code to extract the SHL product catalog from their website.
